@@ -1,0 +1,18 @@
+﻿Üstteki arama kısmına cmd yaz ve aç
+ardından tek tek aşağıdaki komutları yaz
+
+pip install --user discord
+pip install --user colorama
+pip install --user psutil
+pip install --user pypresence
+pip install discord==1.7.3
+pip install discord.py==1.7.3
+
+bunları kurduktan sonra
+
+python main.py
+
+yaz
+gerisini yaparsın. 
+
+
